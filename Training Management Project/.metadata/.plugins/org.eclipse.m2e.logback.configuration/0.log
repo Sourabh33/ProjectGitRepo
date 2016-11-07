@@ -164,3 +164,45 @@
 2016-10-12 17:02:18,058 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-10-12 17:02:18,060 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-10-12 17:02:18,061 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sourabhsh\Desktop\Training management Project\Training Management Project\Traning_Management\src\test\resources
+2016-11-07 17:37:20,759 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.Cybage.MajorProject:Traning_Management:0.0.1-SNAPSHOT @ C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\pom.xml.
+2016-11-07 17:37:45,733 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:37:45,735 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\main\resources
+2016-11-07 17:37:45,739 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:37:45,741 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\test\resources
+2016-11-07 17:37:45,744 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Traning_Management
+2016-11-07 17:37:45,745 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Traning_Management
+2016-11-07 17:37:45,756 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:38:23,608 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-07 17:38:24,918 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.Cybage.MajorProject:Traning_Management:0.0.1-SNAPSHOT @ C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\pom.xml.
+2016-11-07 17:38:26,462 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Traning_Management/src/main/java
+2016-11-07 17:38:26,463 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Traning_Management/src/test/java
+2016-11-07 17:38:28,161 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Traning_Management
+2016-11-07 17:38:28,173 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-11-07 17:38:29,166 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:38:29,169 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\main\resources
+2016-11-07 17:38:29,278 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:38:29,280 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\test\resources
+2016-11-07 17:38:29,280 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Traning_Management
+2016-11-07 17:38:29,280 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Traning_Management
+2016-11-07 17:38:29,315 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:38:43,682 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-07 17:39:03,574 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management
+2016-11-07 17:39:03,575 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests clean install
+2016-11-07 17:41:01,328 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:41:01,330 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\main\resources
+2016-11-07 17:41:01,337 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:41:01,338 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\test\resources
+2016-11-07 17:41:09,116 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management
+2016-11-07 17:41:09,117 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests clean install
+2016-11-07 17:41:49,494 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:41:49,496 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\main\resources
+2016-11-07 17:41:49,499 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:41:49,501 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\test\resources
+2016-11-07 17:41:55,392 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:41:55,394 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\main\resources
+2016-11-07 17:41:55,396 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:41:55,398 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\test\resources
+2016-11-07 17:42:51,585 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:42:51,588 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\main\resources
+2016-11-07 17:42:51,589 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-07 17:42:51,590 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipaksh\Desktop\ProjectGitRepo\Training Management Project\Traning_Management\src\test\resources
